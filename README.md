@@ -1,13 +1,31 @@
-👋 **Hi there!** 
+<h1 align="center">Hi 👋, I'm Kim Denis</h1>
+<h3 align="center">A passionate Data Analyst/Data Scientist from England</h3>
 
-My name is Kim Denis and I'm currently working as a Data Analyst. My passion for Data, Analysis, coding, Machine Learning and AI is what drives me to strive for a career as a Data Scientist. I have honed my skills in SQL, Python, and R. Always eager to learn and work on exciting projects that challenge me. As I navigate through my career, I hope to make a positive impact through my work and contributions to the field of Data.
 
-I am open to new opportunities and I am confident that together, we can create something amazing. Whether you're a fellow data enthusiast or someone with a unique perspective to offer, I believe that collaboration is key to growth and success. So, if you're interested in working together on a project or simply exchanging ideas, don't hesitate to reach out to me on my [LinkedIn](https://www.linkedin.com/in/kimdenis98/). Let's connect and create something great!
+I'm Kim Denis and I'm currently working as a Data Analyst. My passion for Data, coding, Machine Learning and AI is what drives me to strive for a career as a Data Scientist. I have honed my skills in SQL, Python, and R. Always eager to learn and work on exciting projects that challenge me. As I navigate through my career, I hope to make a positive impact through my work and contributions to the field of Data.
+
+I am open to new opportunities and I am confident that together, we can create something amazing. Whether you're a fellow data enthusiast or someone with a unique perspective to offer, I believe that collaboration is key to growth and success. So, if you're interested in working together on a project or simply exchanging ideas, don't hesitate to reach out to me on my
+
+- 🔭 I’m currently working on [Ml Recommendation System](https://github.com/KimKarydas/Anime-Recommendation)
+
+- 🌱 While learning **Machine Learning and Deep Learning**
+
+- 👯 Always looking to collaborate on **Any future projects**
 
 ![bear](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear)
 
 
 ![bear_repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=bear)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kimdenis98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kimdenis98/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/kimkarydas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kimkarydas" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <!---
 KimKarydas/KimKarydas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
