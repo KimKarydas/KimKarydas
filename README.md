@@ -12,11 +12,6 @@ I am open to new opportunities and I am confident that together, we can create s
 
 - 👯 Always looking to collaborate on **Any future projects**
 
-![bear](https://github-readme-stats.vercel.app/api?username=KimKarydas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear)
-
-
-![bear_repo](https://github-readme-stats.vercel.app/api/pin/?username=KimKarydas&repo=github-readme-stats&cache_seconds=86400&theme=bear)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
