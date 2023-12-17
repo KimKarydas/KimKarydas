@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kim Denis</h1>
-<h3 align="center">A passionate Data Analyst/Data Scientist from England</h3>
+<h3 align="center">A passionate Data Analyst/Data Scientist</h3>
 
 
 I'm Kim Denis and I'm currently working as a Data Analyst. My passion for Data, coding, Machine Learning and AI is what drives me to strive for a career as a Data Scientist. I have honed my skills in SQL, Python, and R. Always eager to learn and work on exciting projects that challenge me. As I navigate through my career, I hope to make a positive impact through my work and contributions to the field of Data.
