@@ -6,7 +6,7 @@ I'm Kim Denis and I'm currently working as a Data Analyst. My passion for Data, 
 
 I am open to new opportunities and I am confident that together, we can create something amazing. Whether you're a fellow data enthusiast or someone with a unique perspective to offer, I believe that collaboration is key to growth and success. So, if you're interested in working together on a project or simply exchanging ideas, don't hesitate to reach out to me on my
 
-- 🔭 I’m currently working on [Anime-Recommendation-System]([https://github.com/KimKarydas/Anime-Recommendation-System](https://github.com/KimKarydas/Anime-Recommendation-System))
+- 🔭 I’m currently working on [Anime-Recommendation-System](https://github.com/KimKarydas/Anime-Recommendation-System)
 
 - 🌱 While learning **Machine Learning and Deep Learning**
 
